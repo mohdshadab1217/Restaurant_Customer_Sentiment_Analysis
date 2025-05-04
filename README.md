@@ -34,7 +34,7 @@ To classify customer sentiment as positive (rating 4 or 5) or negative (rating 1
 1. **Install dependencies**:
  pip install pandas scikit-learn
 
-2. Run the notebook:
+2. **Run the notebook**:
  Launch main.ipynb in Jupyter and execute all cells.
 
 ## 📌 Notes
